@@ -4,6 +4,10 @@
 
 This project aims to estimate the head pose (pitch, yaw, and roll angles) of a person in images or videos using the Mediapipe library for face mesh detection and Regression models for pose prediction.
 
+## Output Video
+
+[![Watch the video](video_thumbnail.jpg)]([https://www.youtube.com/watch?v=your_video_id](https://youtube.com/shorts/uQn_wTp_YX8?feature=share))
+
 
 ## Features
 
