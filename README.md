@@ -6,7 +6,7 @@ This project aims to estimate the head pose (pitch, yaw, and roll angles) of a p
 
 ## Output Video
 
-[![Watch the video](video_thumbnail.jpg)]([https://www.youtube.com/watch?v=your_video_id](https://youtube.com/shorts/uQn_wTp_YX8?feature=share))
+[![Watch the video](mq2.webp)](https://youtu.be/I2I35hjJRbY)
 
 
 ## Features
